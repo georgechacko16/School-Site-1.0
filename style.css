@@ -1,0 +1,9 @@
+h1 {
+    color: white;
+}
+
+* {
+    border: solid;
+    color: #2c393d;
+    background-color: chocolate;
+}
